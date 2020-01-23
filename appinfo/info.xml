@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<info xmlns:xsi= "http://www.w3.org/2001/XMLSchema-instance"
+      xsi:noNamespaceSchemaLocation="https://apps.nextcloud.com/schema/apps/info.xsd">
+    <id>wurth_theme</id>
+    <name>Wurth Theme</name>
+    <summary>Wurth theme for Nextcloud</summary>
+    <description><![CDATA[This is a Wurth theme for Nextcloud]]></description>
+    <version>18.0.1</version>
+    <licence>none</licence>
+    <author mail="shlyakhov.up@gmail.com" homepage="https://github.com/matchish">Serhii Shlyakhov</author>
+    <namespace>Wurth</namespace>
+    <category>customization</category>
+    <website>https://github.com/4workers/nextcloud-theme</website>
+    <bugs>https://github.com/4workers/nextcloud-theme/issues</bugs>
+    <dependencies>
+        <nextcloud min-version="18" max-version="18"/>
+    </dependencies>
+</info>
